@@ -6,3 +6,5 @@ new text
 changes in branch
 
 changes to checkconfilts
+
+new changes in master
